@@ -1,5 +1,5 @@
 {
-  "name": "slate",
+  "name": "slate-example",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,11 +10,11 @@
     "@types/node": "^12.0.0",
     "@types/react": "^16.9.0",
     "@types/react-dom": "^16.9.0",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
     "react-scripts": "3.4.0",
     "slate": "^0.57.1",
-    "slate-react": "^0.57.1",
+    "slate-react": "https://github.com/chikamim/slate/releases/download/v0.57.1.1/slate-react.tgz",
     "typescript": "~3.7.2"
   },
   "scripts": {
